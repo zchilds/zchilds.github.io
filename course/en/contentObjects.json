@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "59e55602be9f529c0e177746",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "Begin Course",
+    "_classes": "",
+    "body": "<p>This course aims to introduce you to many topics relevant to workplace harassment.</p>",
+    "displayTitle": "Harassment Prevention",
+    "title": "Harassment Prevention",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "59e55602be9f529c0e177747",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>During this section, you will learn about what harassment is.</p>",
+    "displayTitle": "Section 2",
+    "title": "Section 2",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "59e55602be9f529c0e177748",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>This section aims to cover many of the risk factors as well as warning signs present within harassment.</p>",
+    "displayTitle": "Section 3",
+    "title": "Section 3",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "59e55602be9f529c0e177749",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>This section will cover many of the topics present within reporting and investigation of harassment.</p>",
+    "displayTitle": "Section 4",
+    "title": "Section 4",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "59e55602be9f529c0e17774a",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>This section will test your knowledge about the course.</p>",
+    "displayTitle": "Assessment",
+    "title": "Assessment",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    }
+  }
+]

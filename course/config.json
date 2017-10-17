@@ -1,0 +1,49 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "__v": 0,
+  "_courseId": "59e55602be9f529c0e177745",
+  "_drawer": {
+    "_duration": 400,
+    "_hideEasing": "easeInQuart",
+    "_showEasing": "easeOutQuart"
+  },
+  "_accessibility": {
+    "_isTextProcessorEnabled": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isDisabledOnTouchDevices": false,
+    "_isEnabled": false
+  },
+  "screenSize": {
+    "large": 1024,
+    "medium": 759,
+    "small": 519
+  },
+  "_id": "59e55602be9f529c0e177793",
+  "_trickle": {
+    "_completionAttribute": "_isComplete"
+  },
+  "build": {
+    "includes": [
+      "adapt-theme-community",
+      "adapt-contrib-boxMenu",
+      "adapt-contrib-tutor",
+      "adapt-contrib-trickle",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-resources",
+      "adapt-contrib-text",
+      "adapt-contrib-graphic",
+      "adapt-contrib-mcq",
+      "adapt-expose",
+      "adapt-stacklist",
+      "adapt-next-button",
+      "adapt-contrib-narrative",
+      "adapt-contrib-accordion",
+      "adapt-contrib-hotgraphic",
+      "adapt-contrib-responsiveIframe"
+    ]
+  }
+}
