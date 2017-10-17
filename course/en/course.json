@@ -78,9 +78,15 @@
     }
   },
   "_start": {
-    "_isEnabled": false,
-    "_startIds": [],
-    "_force": false,
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "59e616c7be9f529c0e1777a7",
+        "_skipIfComplete": false,
+        "_className": ""
+      }
+    ],
+    "_force": true,
     "_isMenuDisabled": false
   },
   "_type": "course",
