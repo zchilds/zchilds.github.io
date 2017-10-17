@@ -1,43 +1,43 @@
 [
   {
-    "_id": "59b02d12436412cc14654d01",
+    "_id": "59e616c7be9f529c0e1777ac",
     "_type": "article",
-    "_parentId": "59b02d12436412cc14654d00",
+    "_parentId": "59e616c7be9f529c0e1777a7",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
     "body": "",
-    "displayTitle": "LIUNA Training and Education Fund",
-    "title": "LIUNA Training and Education Fund",
+    "displayTitle": "Online Learning",
+    "title": "Demo",
     "_trickle": {
-      "_stepLocking": {
-        "_isLockedOnRevisit": false,
-        "_isCompletionRequired": true,
-        "_isEnabled": true
-      },
-      "_button": {
-        "_component": "trickle-button",
-        "finalText": "Finish",
-        "startText": "Begin",
-        "text": "Continue",
-        "_className": "",
-        "_autoHide": true,
-        "_isFullWidth": true,
-        "_styleAfterClick": "hidden",
-        "_styleBeforeCompletion": "hidden",
-        "_isEnabled": false
-      },
-      "_scrollTo": "@block +1",
-      "_onChildren": false,
-      "_scrollDuration": 500,
+      "_isEnabled": false,
       "_autoScroll": false,
-      "_isEnabled": false
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
     }
   },
   {
-    "_id": "59b056c2877987bc144d2b13",
+    "_id": "59e616c7be9f529c0e1777ad",
     "_type": "article",
-    "_parentId": "59b056c2877987bc144d2b12",
+    "_parentId": "59e616c7be9f529c0e1777a8",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -70,9 +70,9 @@
     }
   },
   {
-    "_id": "59b1457dfc94f1fc127eec60",
+    "_id": "59e616c7be9f529c0e1777ae",
     "_type": "article",
-    "_parentId": "59b1457dfc94f1fc127eec5f",
+    "_parentId": "59e616c7be9f529c0e1777a9",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -105,9 +105,9 @@
     }
   },
   {
-    "_id": "59b149fbfc94f1fc127eec6d",
+    "_id": "59e616c7be9f529c0e1777af",
     "_type": "article",
-    "_parentId": "59b149fbfc94f1fc127eec6c",
+    "_parentId": "59e616c7be9f529c0e1777aa",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -140,9 +140,9 @@
     }
   },
   {
-    "_id": "59b15eb2f880bbb009922f41",
+    "_id": "59e616c7be9f529c0e1777b0",
     "_type": "article",
-    "_parentId": "59b15eb2f880bbb009922f40",
+    "_parentId": "59e616c7be9f529c0e1777ab",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",

@@ -1,9 +1,9 @@
 [
   {
-    "_id": "59b0374a436412cc14654d04",
+    "_id": "59e616c7be9f529c0e1777cf",
     "_layout": "right",
     "_type": "component",
-    "_parentId": "59b02d12436412cc14654d02",
+    "_parentId": "59e616c7be9f529c0e1777b1",
     "body": "<p>In order to proceed through this course, it is important that you press &quot;Continue&quot; at the bottom of the page once you have completed a section.</p><p>If you do not see &quot;Continue&quot; as an option, be sure to complete the entire section and scroll down to the bottom of the page&nbsp;before proceeding.</p><p>Once you answer a question, a blue bar will pop up on the screen with feedback. Press on the &quot;X&quot; or press above or below the blue bar to dismiss it.</p>",
     "displayTitle": "How to succeed in this course",
     "title": "How to succeed in this course",
@@ -17,10 +17,10 @@
     "instruction": ""
   },
   {
-    "_id": "59b0374d436412cc14654d05",
+    "_id": "59e616c7be9f529c0e1777d0",
     "_layout": "left",
     "_type": "component",
-    "_parentId": "59b02d12436412cc14654d02",
+    "_parentId": "59e616c7be9f529c0e1777b1",
     "body": "",
     "displayTitle": "",
     "title": "Image",
@@ -34,16 +34,16 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/8376c024012201e624b1b671849abda94457fabf.jpg",
-      "small": "course/en/assets/8376c024012201e624b1b671849abda94457fabf.jpg",
+      "large": "https://www.edutopia.org/sites/default/files/styles/share_image/public/slates/johnson-celebration-of-learning-Thinkstock.gif?itok=m_aDCkEr",
+      "small": "https://www.edutopia.org/sites/default/files/styles/share_image/public/slates/johnson-celebration-of-learning-Thinkstock.gif?itok=m_aDCkEr",
       "attribution": ""
     }
   },
   {
-    "_id": "59b0395a436412cc14654d07",
+    "_id": "59e616c7be9f529c0e1777d1",
     "_layout": "right",
     "_type": "component",
-    "_parentId": "59b0394b436412cc14654d06",
+    "_parentId": "59e616c7be9f529c0e1777b2",
     "body": "<p>This is a practice question. The answer is &quot;yes&quot;.</p>",
     "displayTitle": "Example Question 1",
     "title": "Example Question 1",
@@ -113,10 +113,10 @@
     }
   },
   {
-    "_id": "59b0395e436412cc14654d08",
+    "_id": "59e616c7be9f529c0e1777d2",
     "_layout": "left",
     "_type": "component",
-    "_parentId": "59b0394b436412cc14654d06",
+    "_parentId": "59e616c7be9f529c0e1777b2",
     "body": "<p>After completing each section, you will be asked to take a short quiz in order to finalize your training in that topic area.</p><p>Please note that the first question provided is a practice question.</p><p>It is meant as a resource to help ensure you better understand how to do the assessment. You may continue to the next step by pressing the &ldquo;continue&rdquo; button&nbsp;when ready.</p>",
     "displayTitle": "Instructions",
     "title": "Instructions",
@@ -130,10 +130,10 @@
     "instruction": ""
   },
   {
-    "_id": "59b051dc877987bc144d2b05",
+    "_id": "59e616c7be9f529c0e1777d3",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b0517b877987bc144d2b03",
+    "_parentId": "59e616c7be9f529c0e1777b3",
     "body": "<p>The purpose of this training is to create a safe and healthy working environment for everyone.</p>",
     "displayTitle": "",
     "title": "ExposeBoxes 1",
@@ -195,10 +195,10 @@
     ]
   },
   {
-    "_id": "59b0536a877987bc144d2b08",
+    "_id": "59e616c7be9f529c0e1777d4",
     "_layout": "right",
     "_type": "component",
-    "_parentId": "59b05314877987bc144d2b06",
+    "_parentId": "59e616c7be9f529c0e1777b4",
     "body": "",
     "displayTitle": "",
     "title": "List",
@@ -227,10 +227,10 @@
     }
   },
   {
-    "_id": "59b0536d877987bc144d2b09",
+    "_id": "59e616c7be9f529c0e1777d5",
     "_layout": "left",
     "_type": "component",
-    "_parentId": "59b05314877987bc144d2b06",
+    "_parentId": "59e616c7be9f529c0e1777b4",
     "body": "",
     "displayTitle": "",
     "title": "Learn More",
@@ -250,10 +250,10 @@
     }
   },
   {
-    "_id": "59b053fb877987bc144d2b0e",
+    "_id": "59e616c7be9f529c0e1777d6",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b05397877987bc144d2b0a",
+    "_parentId": "59e616c7be9f529c0e1777b5",
     "body": "",
     "displayTitle": "Continue",
     "title": "Continue",
@@ -270,10 +270,10 @@
     "_nextPage": ""
   },
   {
-    "_id": "59b13652fc94f1fc127eec50",
+    "_id": "59e616c7be9f529c0e1777d7",
     "_layout": "left",
     "_type": "component",
-    "_parentId": "59b056c2877987bc144d2b14",
+    "_parentId": "59e616c7be9f529c0e1777b6",
     "body": "<p>Jennifer had been working&nbsp;from June to October on a paving crew.&nbsp;Several male co-workers made statements saying she didn&rsquo;t belong on the work-site and should be home in the kitchen taking care of children.&nbsp;</p><p>She had also been touched on the shoulder and leg in another incident.</p><p>When Jennifer brought this to the attention of her supervisors, their response was to tell her that if she didn&rsquo;t like the situation, she should quit.&nbsp;In the end, Jennifer resigned from her position.</p>",
     "displayTitle": "",
     "title": "Case #1",
@@ -287,10 +287,10 @@
     "instruction": ""
   },
   {
-    "_id": "59b1365afc94f1fc127eec51",
+    "_id": "59e616c7be9f529c0e1777d8",
     "_layout": "right",
     "_type": "component",
-    "_parentId": "59b056c2877987bc144d2b14",
+    "_parentId": "59e616c7be9f529c0e1777b6",
     "body": "<p>After reading about what happened to Jennifer, would you consider this case to be harassment?</p>",
     "displayTitle": "",
     "title": "Question #1",
@@ -360,10 +360,10 @@
     }
   },
   {
-    "_id": "59b136dbfc94f1fc127eec53",
+    "_id": "59e616c7be9f529c0e1777d9",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b136b2fc94f1fc127eec52",
+    "_parentId": "59e616c7be9f529c0e1777b7",
     "body": "<p>Unwelcome conduct that is based on one or more of the following:</p>",
     "displayTitle": "Once you have finished with this section, scroll down for more.",
     "title": "Once you have finished with this section, scroll down for more.",
@@ -414,10 +414,10 @@
     ]
   },
   {
-    "_id": "59b137bbfc94f1fc127eec55",
+    "_id": "59e616c7be9f529c0e1777da",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b13781fc94f1fc127eec54",
+    "_parentId": "59e616c7be9f529c0e1777b8",
     "body": "",
     "displayTitle": "",
     "title": "Expose 2/3",
@@ -468,10 +468,10 @@
     ]
   },
   {
-    "_id": "59b13879fc94f1fc127eec57",
+    "_id": "59e616c7be9f529c0e1777db",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b1385dfc94f1fc127eec56",
+    "_parentId": "59e616c7be9f529c0e1777b9",
     "body": "",
     "displayTitle": "",
     "title": "Expose 3 of 3",
@@ -522,10 +522,10 @@
     ]
   },
   {
-    "_id": "59b13daffc94f1fc127eec59",
+    "_id": "59e616c7be9f529c0e1777dc",
     "_layout": "left",
     "_type": "component",
-    "_parentId": "59b13d9ffc94f1fc127eec58",
+    "_parentId": "59e616c7be9f529c0e1777ba",
     "body": "<p>Harassment is a term that you might have heard before, but what exactly falls into the category of harassment?&nbsp; Let&rsquo;s look at the following case study.</p><p>Matthew, a Filipino-American, worked as a laborer on a pipe laying crew for a little over a year.&nbsp;</p><p>A short while after starting the job, his white manager started calling Matthew names like &ldquo;non-white guy&rdquo; and &ldquo;monkey&rdquo;.&nbsp; After some time, Matthew went to the company&rsquo;s safety manager about the issue, and he was fired for his opposition.</p>",
     "displayTitle": "",
     "title": "Text Box",
@@ -539,10 +539,10 @@
     "instruction": ""
   },
   {
-    "_id": "59b13e6bfc94f1fc127eec5a",
+    "_id": "59e616c7be9f529c0e1777dd",
     "_layout": "right",
     "_type": "component",
-    "_parentId": "59b13d9ffc94f1fc127eec58",
+    "_parentId": "59e616c7be9f529c0e1777ba",
     "body": "<p>After reading about what happened to Matthew, would you consider this case to be harassment?</p>",
     "displayTitle": "",
     "title": "Question #2",
@@ -612,10 +612,10 @@
     }
   },
   {
-    "_id": "59b13f95fc94f1fc127eec5c",
+    "_id": "59e616c7be9f529c0e1777de",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b13ebffc94f1fc127eec5b",
+    "_parentId": "59e616c7be9f529c0e1777bb",
     "body": "",
     "displayTitle": "",
     "title": "Harassment Gallery",
@@ -664,10 +664,10 @@
     ]
   },
   {
-    "_id": "59b1411cfc94f1fc127eec5e",
+    "_id": "59e616c7be9f529c0e1777df",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b1410ffc94f1fc127eec5d",
+    "_parentId": "59e616c7be9f529c0e1777bc",
     "body": "",
     "displayTitle": "Continue",
     "title": "Continue",
@@ -684,10 +684,10 @@
     "_nextPage": ""
   },
   {
-    "_id": "59b145a0fc94f1fc127eec62",
+    "_id": "59e616c7be9f529c0e1777e0",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b1457dfc94f1fc127eec61",
+    "_parentId": "59e616c7be9f529c0e1777bd",
     "body": "",
     "displayTitle": "",
     "title": "Narrative Section",
@@ -756,10 +756,10 @@
     ]
   },
   {
-    "_id": "59b14685fc94f1fc127eec64",
+    "_id": "59e616c7be9f529c0e1777e1",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b1466cfc94f1fc127eec63",
+    "_parentId": "59e616c7be9f529c0e1777be",
     "body": "",
     "displayTitle": "",
     "title": "Narrative Section",
@@ -798,10 +798,10 @@
     ]
   },
   {
-    "_id": "59b147b6fc94f1fc127eec66",
+    "_id": "59e616c7be9f529c0e1777e2",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b14738fc94f1fc127eec65",
+    "_parentId": "59e616c7be9f529c0e1777bf",
     "body": "",
     "displayTitle": "",
     "title": "Accordian",
@@ -848,10 +848,10 @@
     "_shouldCollapseItems": false
   },
   {
-    "_id": "59b14a75fc94f1fc127eec6f",
+    "_id": "59e616c7be9f529c0e1777e3",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b149fbfc94f1fc127eec6e",
+    "_parentId": "59e616c7be9f529c0e1777c1",
     "body": "",
     "displayTitle": "Example Harassment Report",
     "title": "Example Harassment Report",
@@ -952,10 +952,10 @@
     ]
   },
   {
-    "_id": "59b15a0efc94f1fc127eec71",
+    "_id": "59e616c7be9f529c0e1777e4",
     "_layout": "left",
     "_type": "component",
-    "_parentId": "59b159fbfc94f1fc127eec70",
+    "_parentId": "59e616c7be9f529c0e1777c2",
     "body": "<p>If you ever feel you are being harassed or witness harassment, it is important that you report it to the appropriate supervisor.</p><p>Each supervisor may have a different anti-harassment policy, but listed below is common method of reporting.</p>",
     "displayTitle": "",
     "title": "Text",
@@ -969,10 +969,10 @@
     "instruction": ""
   },
   {
-    "_id": "59b15ceff880bbb009922f36",
+    "_id": "59e616c7be9f529c0e1777e5",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b15cdff880bbb009922f35",
+    "_parentId": "59e616c7be9f529c0e1777c3",
     "body": "<p>After you have submitted your complaint, here are the steps that happen next.&nbsp; Again, each supervisor might have a different anti-harassment policy, but these are the common steps.</p>",
     "displayTitle": "Investigation Steps",
     "title": "Investigation Steps",
@@ -1007,10 +1007,10 @@
     }
   },
   {
-    "_id": "59b15da5f880bbb009922f3b",
+    "_id": "59e616c7be9f529c0e1777e6",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b15da0f880bbb009922f3a",
+    "_parentId": "59e616c7be9f529c0e1777c5",
     "body": "",
     "displayTitle": "Continue",
     "title": "Continue",
@@ -1027,10 +1027,10 @@
     "_nextPage": ""
   },
   {
-    "_id": "59b15dbcf880bbb009922f3c",
+    "_id": "59e616c7be9f529c0e1777e7",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b14848fc94f1fc127eec67",
+    "_parentId": "59e616c7be9f529c0e1777c0",
     "body": "<ul><li>Some of the Risk Factors that can lead to harassment</li><li>Warning Signs that you or someone is being harassed</li><li>Prevention techniques and ways to stop harassment</li></ul><p>You have completed this section.</p><p>Please press the &quot;Continue&quot; button below in order to proceed to the next section.</p>",
     "displayTitle": "Here’s what you have seen:",
     "title": "Here’s what you have seen:",
@@ -1044,10 +1044,10 @@
     "instruction": ""
   },
   {
-    "_id": "59b15e1af880bbb009922f3d",
+    "_id": "59e616c7be9f529c0e1777e8",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b15d2af880bbb009922f37",
+    "_parentId": "59e616c7be9f529c0e1777c4",
     "body": "<ul><li>How to file a harassment complaint</li><li>What happens after you file a complaint</li></ul><p>You have completed this section.</p><p>Please press the &quot;Continue&quot; button below in order to proceed to the next section.</p>",
     "displayTitle": "Here’s what you have seen:",
     "title": "Here’s what you have seen:",
@@ -1061,10 +1061,10 @@
     "instruction": ""
   },
   {
-    "_id": "59b15e2ef880bbb009922f3f",
+    "_id": "59e616c7be9f529c0e1777e9",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b15e2af880bbb009922f3e",
+    "_parentId": "59e616c7be9f529c0e1777c6",
     "body": "",
     "displayTitle": "Continue",
     "title": "Continue",
@@ -1081,10 +1081,10 @@
     "_nextPage": ""
   },
   {
-    "_id": "59b15ecaf880bbb009922f43",
+    "_id": "59e616c7be9f529c0e1777ea",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b15eb2f880bbb009922f42",
+    "_parentId": "59e616c7be9f529c0e1777c7",
     "body": "<p>Now that you have gone through all the sections, let&rsquo;s see how much you have learned.</p><p>Remember to read carefully and select the best answer.</p>",
     "displayTitle": "",
     "title": "Instruction Text",
@@ -1098,10 +1098,10 @@
     "instruction": ""
   },
   {
-    "_id": "59b15ee5f880bbb009922f48",
+    "_id": "59e616c7be9f529c0e1777eb",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b15ed9f880bbb009922f44",
+    "_parentId": "59e616c7be9f529c0e1777c8",
     "body": "",
     "displayTitle": "Are all offensive remarks considered harassment?",
     "title": "Are all offensive remarks considered harassment?",
@@ -1171,10 +1171,10 @@
     }
   },
   {
-    "_id": "59b15eebf880bbb009922f49",
+    "_id": "59e616c7be9f529c0e1777ec",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b15edbf880bbb009922f45",
+    "_parentId": "59e616c7be9f529c0e1777c9",
     "body": "",
     "displayTitle": "Does workplace harassment have to occur at work?",
     "title": "Does workplace harassment have to occur at work?",
@@ -1244,10 +1244,10 @@
     }
   },
   {
-    "_id": "59b15ef1f880bbb009922f4a",
+    "_id": "59e616c7be9f529c0e1777ed",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b15edcf880bbb009922f46",
+    "_parentId": "59e616c7be9f529c0e1777ca",
     "body": "",
     "displayTitle": "Is it illegal for an employer to take action against you because you have filed a claim?",
     "title": "Is it illegal for an employer to take action against you because you have filed a claim?",
@@ -1317,10 +1317,10 @@
     }
   },
   {
-    "_id": "59b15ef5f880bbb009922f4b",
+    "_id": "59e616c7be9f529c0e1777ee",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b15edcf880bbb009922f47",
+    "_parentId": "59e616c7be9f529c0e1777cb",
     "body": "",
     "displayTitle": "Which of the following is an appropriate response when you witness harassment?",
     "title": "Which of the following is an appropriate response when you witness harassment?",
@@ -1400,10 +1400,10 @@
     }
   },
   {
-    "_id": "59b15fb1f880bbb009922f4d",
+    "_id": "59e616c7be9f529c0e1777ef",
     "_layout": "full",
     "_type": "component",
-    "_parentId": "59b15fa0f880bbb009922f4c",
+    "_parentId": "59e616c7be9f529c0e1777cc",
     "body": "",
     "displayTitle": "True or False:  If everyone is laughing and having a good time, then what I’m doing is okay.",
     "title": "True or False:  If everyone is laughing and having a good time, then what I’m doing is okay.",
@@ -1473,10 +1473,10 @@
     }
   },
   {
-    "_id": "59b28e39ea3062c8148aea34",
+    "_id": "59e616c7be9f529c0e1777f0",
     "_layout": "right",
     "_type": "component",
-    "_parentId": "59b159fbfc94f1fc127eec70",
+    "_parentId": "59e616c7be9f529c0e1777c2",
     "body": "",
     "displayTitle": "",
     "title": "Image",
@@ -1496,10 +1496,10 @@
     }
   },
   {
-    "_id": "59b685d9ea3062c8148aea44",
+    "_id": "59e616c7be9f529c0e1777f1",
     "_layout": "left",
     "_type": "component",
-    "_parentId": "59b68574ea3062c8148aea43",
+    "_parentId": "59e616c7be9f529c0e1777ce",
     "body": "",
     "displayTitle": "",
     "title": "Image",
@@ -1519,10 +1519,10 @@
     }
   },
   {
-    "_id": "59b68605ea3062c8148aea45",
+    "_id": "59e616c7be9f529c0e1777f2",
     "_layout": "right",
     "_type": "component",
-    "_parentId": "59b68574ea3062c8148aea43",
+    "_parentId": "59e616c7be9f529c0e1777ce",
     "body": "<p>This course works on&nbsp;both mobile and PC, but using a dedicated computer or tablet is preferred.</p><p>At the end of this course, you will be asked to fill out a registration page. This information will be used to track that you have taken this course successfully.</p><p>Additional resources concerning workplace harassment are&nbsp;available by clicking on the icon in the upper right of the screen.</p><p>Using the <a href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwii9smkmJ3WAhWP14MKHWMNBEoQ0EMINA&amp;url=https%3A%2F%2Fwww.google.com%2Fchrome%2Fbrowser%2F&amp;usg=AFQjCNG19iEVK3TZqhAHQwzOx8ulYv7V8g\"><span style=\"color:#ADD8E6\">Google Chrome</span></a> web browser to take this course is highly recommended.</p><p>If you need to restart a page for any reason, refresh the page.</p>",
     "displayTitle": "Technical Notes",
     "title": "Technical Notes",
@@ -1534,34 +1534,5 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "59deac9cbe9f529c0e177744",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "59b1623cf880bbb009922f50",
-    "body": "",
-    "displayTitle": "",
-    "title": "Registration",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "responsiveIframe",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_source": "https://docs.google.com/forms/d/e/1FAIpQLSf3jIBmPNrTZRJ2oP8znqZ-bdHAjHDb8WA6iXwPz5MH997yMA/viewform?embedded=true",
-    "_scrolling": "auto",
-    "_width": {
-      "_small": 700,
-      "_medium": 800,
-      "_large": 900
-    },
-    "_height": {
-      "_small": 400,
-      "_medium": 500,
-      "_large": 600
-    }
   }
 ]

@@ -78,16 +78,10 @@
     }
   },
   "_start": {
-    "_isEnabled": true,
-    "_startIds": [
-      {
-        "_id": "59b02d12436412cc14654d00",
-        "_skipIfComplete": false,
-        "_className": ""
-      }
-    ],
-    "_force": true,
-    "_isMenuDisabled": true
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
   },
   "_type": "course",
   "_lockType": "",
@@ -117,10 +111,10 @@
     "remainingAttemptText": "final attempt",
     "disabledAriaLabel": "This button is disabled at the moment"
   },
-  "_latestTrackingId": 30,
-  "body": "<p>This is currently a demo. All sections have been unlocked for testing.</p>",
-  "displayTitle": "LIUNA Training Harassment Prevention",
-  "title": "LIUNA Training Harassment Prevention",
+  "_latestTrackingId": 29,
+  "body": "",
+  "displayTitle": "Zachary Demo",
+  "title": "Zachary Demo",
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": true

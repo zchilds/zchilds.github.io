@@ -1,6 +1,6 @@
 [
   {
-    "_id": "59b02d12436412cc14654d00",
+    "_id": "59e616c7be9f529c0e1777a7",
     "_type": "page",
     "_parentId": "course",
     "_graphic": {
@@ -14,15 +14,15 @@
     "linkText": "Begin Course",
     "_classes": "",
     "body": "<p>This course aims to introduce you to many topics relevant to workplace harassment.</p>",
-    "displayTitle": "Harassment Prevention",
-    "title": "Harassment Prevention",
+    "displayTitle": "Antiharassment Web Course",
+    "title": "Antiharassment Web Course",
     "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {
-    "_id": "59b056c2877987bc144d2b12",
+    "_id": "59e616c7be9f529c0e1777a8",
     "_type": "page",
     "_parentId": "course",
     "_graphic": {
@@ -44,7 +44,7 @@
     }
   },
   {
-    "_id": "59b1457dfc94f1fc127eec5f",
+    "_id": "59e616c7be9f529c0e1777a9",
     "_type": "page",
     "_parentId": "course",
     "_graphic": {
@@ -66,7 +66,7 @@
     }
   },
   {
-    "_id": "59b149fbfc94f1fc127eec6c",
+    "_id": "59e616c7be9f529c0e1777aa",
     "_type": "page",
     "_parentId": "course",
     "_graphic": {
@@ -88,7 +88,7 @@
     }
   },
   {
-    "_id": "59b15eb2f880bbb009922f40",
+    "_id": "59e616c7be9f529c0e1777ab",
     "_type": "page",
     "_parentId": "course",
     "_graphic": {
