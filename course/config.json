@@ -5,7 +5,7 @@
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
   "__v": 0,
-  "_courseId": "59e55602be9f529c0e177745",
+  "_courseId": "59b02d0f436412cc14654cfd",
   "_drawer": {
     "_duration": 400,
     "_hideEasing": "easeInQuart",
@@ -22,7 +22,7 @@
     "medium": 759,
     "small": 519
   },
-  "_id": "59e55602be9f529c0e177793",
+  "_id": "59b02d0f436412cc14654cff",
   "_trickle": {
     "_completionAttribute": "_isComplete"
   },

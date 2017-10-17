@@ -118,9 +118,9 @@
     "disabledAriaLabel": "This button is disabled at the moment"
   },
   "_latestTrackingId": 30,
-  "body": "",
-  "displayTitle": "Zachary Demo",
-  "title": "Zachary Demo",
+  "body": "<p>This is currently a demo. All sections have been unlocked for testing.</p>",
+  "displayTitle": "LIUNA Training Harassment Prevention",
+  "title": "LIUNA Training Harassment Prevention",
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": true
