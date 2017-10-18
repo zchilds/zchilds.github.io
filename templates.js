@@ -1665,7 +1665,7 @@ this["Handlebars"]["templates"]["page"] = Handlebars.template({"1":function(cont
     + ((stack1 = helpers["if"].call(alias3,(depth0 != null ? depth0.displayTitle : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + "\n"
     + ((stack1 = helpers["if"].call(alias3,(depth0 != null ? depth0.body : depth0),{"name":"if","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "\n				</div>\n			</div>\n\n		</div>\n	</div>\n\n	<div class=\"page-shadow\"></div>\n\n</div>\n\n<div class=\"page-footer\">\n	<div class=\"left\">\n		<a href=\"http://www.liunatraining.org/\" target=\"_blank\">\n			<img alt=\"GLP Logo\" class=\"xl\" src=\"adapt/css/assets/gpl-icon-white.png\">\n		</a>\n	</div>\n</div>\n\n<div class=\"aria-label relative a11y-ignore-focus prevent-default\" tabindex=\"0\" role=\"region\">"
+    + "\n				</div>\n			</div>\n\n		</div>\n	</div>\n\n	<div class=\"page-shadow\"></div>\n\n</div>\n\n<div class=\"page-footer\">\n	<div class=\"left\">\n		<a href=\"https://zchilds.github.io/#/\" target=\"_blank\">\n			<img alt=\"GLP Logo\" class=\"xl\" src=\"adapt/css/assets/gpl-icon-white.png\">\n		</a>\n	</div>\n</div>\n\n<div class=\"aria-label relative a11y-ignore-focus prevent-default\" tabindex=\"0\" role=\"region\">"
     + alias2(alias1(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._accessibility : stack1)) != null ? stack1._ariaLabels : stack1)) != null ? stack1.pageEnd : stack1), depth0))
     + "</div>\n";
 },"useData":true});
